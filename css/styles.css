@@ -1,0 +1,104 @@
+#header {
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
+    height: 150px;
+    background-color: #4e9ffd;
+}
+
+.center {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+#logo {
+    height: 60px;
+    position: absolute; 
+    top: 90px;
+    padding: 0px 10px;
+    left: 10%;
+}
+
+.testo1 {
+    font-family: 'Times New Roman';
+    font-size: 17px;
+    color: grey;
+    margin: 0%;
+}
+
+.testo2 {
+    color: #0570a1;
+}
+
+.testo3 {
+    font-family: 'Times New Roman';
+    font-size: 12px;
+    color: grey;
+    margin: 0%;
+}
+
+.testo4 {
+    font-family: 'Times New Roman';
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.paragrafo {
+    font-family: 'Times New Roman';
+    font-size: 18px;
+    margin: 30px 0px;
+}
+
+.testo5 {
+    background:#FFFF00;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: left;
+    }
+
+.testa_tabella {
+    background-color: #6cc7ed;
+    color: whitesmoke;
+    padding: 0px 10px;
+}
+
+.corpo_tabella {
+    background-color: lightblue;
+    padding: 0px 10px;
+}
+
+.colonna-25 {
+    width: 25%;
+    height: 10%;
+}
+
+h3 {
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    color: grey;
+    
+}
+
+h2 {
+    font-family: 'Times New Roman';
+    position:relative;
+    color: white;
+    top: 10px;
+    left: 10px;
+}
+
+.image1 {
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 208px;
+}
+
+.image2 {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 207px;
+}
+
